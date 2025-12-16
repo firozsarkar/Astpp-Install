@@ -26,9 +26,9 @@ Root access required
 
 Run the following command as root:
 
-'''bash
+```bash
 bash <(wget -qO- https://raw.githubusercontent.com/firozsarkar/Astpp-Install/refs/heads/main/rb_install.sh)
-'''
+```
 
 This single command will:
 
@@ -41,9 +41,9 @@ Install ASTPP & required components
 🔐 Root Access
 
 If you are not logged in as root:
-'''bash
+```bash
 sudo -i
-'''
+```
 
 Then run the install command again.
 
@@ -61,9 +61,9 @@ Server reboot may be required after installation
 
 If installation fails, rerun the installer with logging enabled:
 
-'''bash
+```bash
 bash <(wget -qO- https://raw.githubusercontent.com/firozsarkar/Astpp-Install/refs/heads/main/rb_install.sh) | tee install.log
-'''
+```
 
 Then check install.log for any errors.
 
@@ -74,9 +74,9 @@ Always review scripts before running on production servers
 Never run unknown scripts without understanding the contents
 
 ✅ Single-line SSL Install Command 
-'''bash
+```bash
 bash <(wget -qO- https://raw.githubusercontent.com/firozsarkar/Astpp-Install/refs/heads/main/ssl.sh) yourdomain.com
-'''
+```
 👤 Author
 
 Firoz Sarkar
