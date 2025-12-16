@@ -77,8 +77,9 @@ Server reboot may be required after installation
 🛠 Troubleshooting
 
 If installation fails, rerun with logging:
-
+```bash
 bash <(wget -qO- https://raw.githubusercontent.com/firozsarkar/Astpp-Install/refs/heads/main/rb_install.sh) | tee install.log
+```
 
 Check install.log for errors.
 
@@ -92,15 +93,13 @@ Always review scripts before running on production servers.
 
 ---
 
-👤 Author
+##👤 Author
 
 Firoz Sarkar
 GitHub: https://github.com/firozsarkar
 website: https://hostserverbd.com
-
-
 ---
 
 ⭐ Support
 
-If this project helps you, please give it a ⭐ on GitHub.
+If this project helps you, please give it a ⭐ on GitHGitHub
