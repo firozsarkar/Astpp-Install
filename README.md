@@ -34,9 +34,9 @@ Root access required
 ⚡ Quick Install (Recommended)
 
 Run the following command as root:
-bash''
+```bash
 bash <(wget -qO- https://raw.githubusercontent.com/firozsarkar/Astpp-Install/refs/heads/main/rb_install.sh)
-''
+```
 This single command will:
 
 Download the installer
