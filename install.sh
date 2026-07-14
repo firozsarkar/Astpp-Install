@@ -2,8 +2,8 @@
 ###############################################################################
 # ASTPP - Open Source VoIP Billing Solution
 #
-# Copyright (C) 2019 iNextrix Technologies Pvt. Ltd.
-# ASTPP Version 3.5
+# Copyright (C) 2026 Inextrix Technologies Pvt. Ltd.
+# ASTPP Version 6.0
 # License https://www.gnu.org/licenses/agpl-3.0.html
 #
 # This program is free software: you can redistribute it and/or modify
